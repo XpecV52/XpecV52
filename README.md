@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"  align="right" style="margin: 5px; margin-bottom: 20px;" />
 --->
 
-### XpecV52 !
+### XpecV52 
 
 - python java android for test.
 - unrealscript for KF mods.
